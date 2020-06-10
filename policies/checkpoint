@@ -1,0 +1,2 @@
+model_checkpoint_path: "data45_all_CoIL"
+all_model_checkpoint_paths: "data45_all_CoIL"
